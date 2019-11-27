@@ -17,7 +17,7 @@ Some important principles what we belive to be advantages of adopting the Pipoca
 - To be defined
 
 # Interested in contributing to PipocaQDA?
-Thanks for the interest and please read the [Contributing](https://github.com/larocs/RoCS/blob/master/CONTRIBUTING.md) recommendations.
+Thanks for the interest and please read the [Contributing](https://github.com/PipocaSw/PipocaQDA/blob/master/CONTRIBUTING.md) recommendations.
 
 # Team
 Breno Bernard Nicolau de França
