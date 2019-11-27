@@ -7,7 +7,7 @@ OBS.: This document is still under development.
 
 ## Issues
 
-Contributions should be first be opened as [issues](https://github.com/larocs/RoCS/issues). So, before openning a pull request with contribution, please be sure there is an open issue demanding it.
+Contributions should be first be opened as [issues](https://github.com/PipocaSw/PipocaQDA/issues). So, before openning a pull request with contribution, please be sure there is an open issue demanding it.
 
 ### Issues should be opened for: 
 * **Requesting new features or enhancements.** Consider asking for new characteristics, funcionalities, or enhancements in the framework. Features considered unfeasible, inappropriate, or violating the principles of the RoCS framework will be closed. 
