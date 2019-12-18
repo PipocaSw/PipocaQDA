@@ -8,7 +8,7 @@
 
 - The process of tagging/untagging should proceed as follows:
 
-  - The user selects (using the mouse, or searching for keywords, or other selection mechanisms) a fragment or collection of fragments. A number of selection methods should be provided:
+  - The user selects a fragment or collection of fragments. A number of selection methods should be provided:
     - Mouse swipe, with selection extension and multiple selections using Shift/Control keys.
     - Facility to select a word, sentence or paragraph, perhaps with multiple mouse clicks, or a different key.
     - Using a simple search result or regular expression.
