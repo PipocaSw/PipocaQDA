@@ -12,10 +12,10 @@ The project functions are those required to perform housekeeping and specify the
 
 ### Open/New/Close
 
-Familiar functions to open an existing project, create a new project or Close a currently open project.
+- Functions to open an existing project, create a new project or Close a currently open project.
 
-The software should allow more than one project to be open concurrently. This will allow objects to be cut and pasted between projects.
+- The software should allow more than one project to be open concurrently. This will allow objects to be cut and pasted between projects.
 
 ### Properties
 
-Present a form where project properties can be edited.
+- Present a form where project properties can be edited.
