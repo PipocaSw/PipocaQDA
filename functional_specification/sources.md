@@ -18,7 +18,7 @@
 
 - Because fragments are subsets of sources, it is important to maintain internal data integrity by deleting any such fragments when deleting a source.
 
-- For organisational puposes, sources are be arranged within a hierarchical folder structure. The source management module should allow folders to be collapsed/expanded, and sources to be moved within the folder structure.
+- For organisational puposes, sources are arranged in a hierarchical folder structure. The source management module should allow folders to be collapsed/expanded, and sources to be moved around the folder structure.
 
 - It should be possible cut/copy/paste sources to replicate a source or collection of sources, including between different projects.
 

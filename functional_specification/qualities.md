@@ -12,7 +12,7 @@
 
 - Because fragments are assocated with qualities, it is important to maintain internal data integrity by deleting any such fragments when deleting a quality.
 
-- Qualities are arranged hierarchically, which has important implications for the quality management module. First, the user should be able to collapse/expand a quality to hide/show all its subqualities. Second, the user should be able to move a quality within the hierarchy.
+- Qualities are arranged hierarchically, which has important implications for the quality management module. First, the user should be able to collapse/expand a quality to hide/show all its subqualities. Second, the user should be able to move a quality around the hierarchy.
 
 - It should be possible cut/copy/paste qualities to replicate a quality or collection of qualities, including between different projects.
 

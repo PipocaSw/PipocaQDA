@@ -2,6 +2,6 @@
 
 # Introduction
 
-This document provides a functional specification for the PipocaQDA software. It describes the functions that a user of the software is able to perform.
+This document provides a functional specification for the PipocaQDA software. It describes the data structures that underpin the software, and the functions that a user of the software is able to perform.
 
-The document is broken down into sections based on the groups of related functions. These groups are comprised of functions related to a particular part of the research process. They typically (though not always) also relate to a particular data object (for example [Project](terminology.md#project), [Quality](terminology.md#quality) or [Source](terminology.md#source))
+As a functional specification, its purpose is to guide the formulation of an implementation specification. It specifies what users of the software must be able to do without necessarily providing a precise description of how they will be able to do it.
