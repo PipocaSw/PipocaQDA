@@ -8,7 +8,7 @@ Specifying fragments poses a tricky problem. Specifications need to be capable o
 
 Some indicative examples:
 
-Definition | Meaning
+Specification | Meaning
 --- | ---
 offset:1,5 | The subsection of a textual source from the first to the fifth character
 offset:100,300,600,700 | A square section of an image enclosed by x coordinates 100 to 300 and y coordinates 600 to 700
@@ -16,24 +16,18 @@ sentence.contains:frog | All sentences that contain the word “frog”
 
 ## User-defined fields
 
-- Definition
-- Owner
-
-## Automatic fields
-
-- Unique identifier
-- Created date/time/user
-- Updated date/time/user
+- Source
+- Specification
 
 ## Methods
 
-- Create
+- Create from Source identifier and Specification
 - Content - return the content of the source fragment
 - Tag - Assign a quality to a fragment
 - Untag - Unassign a quality to a fragment
-- Qualities - Retrieve all qualities assigned to a fragment
+- Qualities - Retrieve all qualities assigned to (all/some of?) a fragment
 
 ## Validation
 
 - Current user has required privileges
-- Attempt to delete quality that is assigned to fragments
+- Invalid specification
