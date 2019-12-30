@@ -8,6 +8,8 @@ Specifying fragments poses a tricky problem. Specifications need to be capable o
 
 Some indicative examples:
 
+Definition | Meaning
+--- | ---
 offset:1,5 | The subsection of a textual source from the first to the fifth character
 offset:100,300,600,700 | A square section of an image enclosed by x coordinates 100 to 300 and y coordinates 600 to 700
 sentence.contains:frog | All sentences that contain the word “frog”
