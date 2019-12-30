@@ -18,4 +18,4 @@
 
 - It should be possible to import/export collections of qualities to a comma-separated variable (CSV) file to facilitate mass creation or editing.
 
-- As qualities may have arbitrary attributes, a flexible system for editing them is required.
+- [As qualities may have arbitrary attributes, a flexible system for editing them is required.]
