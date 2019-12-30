@@ -32,4 +32,6 @@ The data layer comprises a series of objects and operations that can be performe
 - [Tagger](module-tagger.md)
 - [Queries](module-query.md)
 
+## Appendices
+
 - [Terminology](terminology.md)
