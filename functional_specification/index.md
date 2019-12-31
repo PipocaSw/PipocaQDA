@@ -21,6 +21,7 @@ The data layer comprises a series of objects and operations that can be performe
 - [Sources](object-sources.md)
 - [Fragments](object-fragments.md)
 - [Queries](object-fragments.md)
+- [Users](object-users.md)
 
 ## Application Layer
 

@@ -22,7 +22,7 @@ Sources can have arbitrary attributes with values, requiring an Entity-Attribute
 - Folder
 - Data type (MIME?)
 - Data
-- Public encryption key
+- Encryption information
 
 ## Automatic fields
 
