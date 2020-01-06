@@ -2,7 +2,7 @@
 
 # Qualities
 
-A _quality_ is something that a researcher associates with _fragments_ of research data in the process of performing qualitative research. Users of other qualitative research software may know a quality as a _node_ or a _code_. We have chosen the term _quality_ for its clear connection with qualitative research, and the fact that it is not already used to refer to many other things.
+A _quality_ is something that a researcher associates with _fragments_ of research data in the process of performing qualitative analysis. Users of other qualitative research software may know a quality as a _node_ or a _code_. We have chosen the term _quality_ for its clear connection with qualitative research, and the fact that it is not already used to refer to many other things.
 
 Depending on the research methodology being employed, the qualities used in a project can be defined by the methodology, predetermined but depending on the particular subject of the research, or defined and refined in the course of the research. Moreover, these multiple ways of defining qualities are often combined within a single research project.
 
