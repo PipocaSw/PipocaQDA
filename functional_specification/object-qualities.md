@@ -10,7 +10,7 @@ A second feature of qualities is that they form a hierarchy. That is, a quality 
 
 [Finally, qualities may relate to one another in arbitrary ways.]
 
-[Qualities themselves can have arbitrary attributes with values.]
+Qualities can have arbitrary attributes with values, requiring an Entity-Attribute-Value ([EAV](https://en.wikipedia.org/wiki/Entity–attribute–value_model)) model to store.
 
 ## User-defined fields
 
@@ -18,6 +18,7 @@ A second feature of qualities is that they form a hierarchy. That is, a quality 
 - Description
 - Owner
 - Optional parent quality identifier
+- EAV attribute-values
 
 ## Automatic fields
 

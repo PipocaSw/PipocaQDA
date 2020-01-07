@@ -23,6 +23,7 @@ Sources can have arbitrary attributes with values, requiring an Entity-Attribute
 - Data type (MIME?)
 - Data
 - Encryption information
+- EAV attribute-values
 
 ## Automatic fields
 

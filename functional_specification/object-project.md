@@ -29,29 +29,3 @@ The project is the highest level object handled by PipocaQDA. All other objects 
 ## Validation
 
 - Current user has required privileges
-
-## User-defined fields
-
-- Name
-- Description
-- Owner
-- Optional parent quality identifier
-
-## Automatic fields
-
-- Unique identifier
-- Created date/time/user
-- Updated date/time/user
-
-## Methods
-
-- Create
-- Open by name, identifier, parent or sibling identifier
-- Update
-- Close
-- Delete
-
-## Validation
-
-- Current user has required privileges
-- Attempt to delete quality that is assigned to fragments

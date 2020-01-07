@@ -20,7 +20,7 @@ The data layer comprises a series of objects and operations that can be performe
 - [Qualities](object-qualities.md)
 - [Sources](object-sources.md)
 - [Fragments](object-fragments.md)
-- [Queries](object-fragments.md)
+- [Queries](object-queries.md)
 - [Users](object-users.md)
 
 ## Application Layer
