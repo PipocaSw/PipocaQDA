@@ -15,8 +15,6 @@ The project is the highest level object handled by PipocaQDA. All other objects 
 
 ## Automatic fields
 
-- Created date/time/user
-- Updated date/time/user
 
 ## Methods
 

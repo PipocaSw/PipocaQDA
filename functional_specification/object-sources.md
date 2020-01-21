@@ -28,8 +28,6 @@ Sources can have arbitrary attributes with values, requiring an Entity-Attribute
 ## Automatic fields
 
 - Unique identifier
-- Created date/time/user
-- Updated date/time/user
 
 ## Methods
 

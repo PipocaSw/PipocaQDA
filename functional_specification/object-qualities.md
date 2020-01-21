@@ -23,8 +23,6 @@ Qualities can have arbitrary attributes with values, requiring an Entity-Attribu
 ## Automatic fields
 
 - Unique identifier
-- Created date/time/user
-- Updated date/time/user
 
 ## Methods
 
