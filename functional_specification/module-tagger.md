@@ -2,7 +2,7 @@
 
 # Tagger
 
-- The _tagger_ is a module of the application that allows the user to define [fragments](terminology.md#fragment) and tag/untag them with one or more [qualities](terminology.md#quality).
+- The _tagger_ is a module of the application that allows the user to define [fragments](object-fragments.md) and tag/untag them with one or more [qualities](object-qualities.md).
 
 - Researchers typically find tagging to be time-consuming, repetitive and error-prone. For this reason, the user experience of the tagger needs to be as smooth as possible.
 

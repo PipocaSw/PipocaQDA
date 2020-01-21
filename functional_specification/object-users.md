@@ -2,13 +2,28 @@
 
 # User
 
-The user object is for adminstrative purposes, to keep track of which user made changes to a research project, and for authentication purposes, to ensure that operations are only carried out by those authorised to do so.
+A _user_ is any person who uses PipocaQDA for whatever purpose.
+
+The user object serves two purposes:
+
+1. As part of an accountability trail, it allows a record to be kept of which user made which changes to a project.
+2. For authentication purposes, it is used as part of a role-base access control ([RBAC](https://en.wikipedia.org/wiki/Role-based_access_control)) system to ensure that operations are only carried out by those authorised to do so.
 
 ## User-defined fields
 
-- Username
+### Identification
+
 - Full name
 - Email
-- Password
-- Group
-- Permissions
+- Telephone number(s)
+- Physical address
+
+### Adminstrative details
+
+- Username
+- Hashed password
+- Active (True/False)
+
+### Access control
+
+- Role(s)
